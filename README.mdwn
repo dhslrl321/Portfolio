@@ -48,39 +48,41 @@
 
 ![timeline](https://github.com/dhslrl321/Portfolio/blob/master/Images/timeline.png)
 
-### 활동
+## 활동
 
-Team EU 리더
-Team Maple 팀원
-LOCS 팀장
+### 1. Team EU 리더
 
-### 나의 작품들
+### 2. Team Maple 팀원
 
-#### 1. 데스크톱 관리 프로그램
+### 3. LOCS 팀장
 
-데스크톱 관리 프로그램 제작
+## 나의 작품들
 
-#### 2. 게임 개발
+### 1. 데스크톱 관리 프로그램
 
 데스크톱 관리 프로그램 제작
 
-#### 3. FINX
+### 2. 게임 개발
 
 데스크톱 관리 프로그램 제작
 
-### 나의 하루
+### 3. FINX
+
+데스크톱 관리 프로그램 제작
+
+## 나의 하루
 
 ![activity](https://github.com/dhslrl321/Portfolio/blob/master/Images/activity.png)
 
-#### 1. 블로깅
+### 1. 블로깅
 
 블로깅으로 정보를 저장합니다.
 
-#### 2. 유튜브
+### 2. 유튜브
 
 유튜브로 하루 공부를 기록합니다.
 
-#### 3. 백준
+### 3. 백준
 
 백준으로 알고리즘을 연습합니다.
 
