@@ -4,7 +4,7 @@
 
 # 목차
 
-![name-card](https://github.com/dhslrl321/Portfolio/blob/master/Images/name-card.png)
+![name-card](https://github.com/dhslrl321/Portfolio/blob/master/Images/name.png)
 
 # asdf
 
