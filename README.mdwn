@@ -42,9 +42,11 @@
 - **1997.05.31** 경상북도 경주시 안강읍에 살았지만 새벽에 여는 산부인과가 없어서 **포항 산부인과**에서 출생
 - 2005.??.?? 부모님의 고향인 전남 여수로 이사
 - 2010.01.11 경상도 사투리와 전라도 사투리 사이에서 매우 혼동.
-- **2020.02.02** 여수 한영고등학교 졸업
+- **2016.02.12** 여수 한영고등학교 졸업
 - **2016.03.02** 배재대학교 사이버 보안학과 입학
-- 2017.04.17 대한민국 해병대 제 6 상륙 여단 5대대 화기중대 !
+- 2017.04.17 군 입대 ㅠㅠ
+- 2019.01.19 대한민국 해병대 제 6 상륙 여단 병장 만기 전역
+- **2019.03.?** 처음으로 개발에 흥미를 느낀 인생에서 **가장가장 중요한 순간**
 - **2019.09.02** 개발자의 뜻을 품고 컴퓨터공학 복수 전공
 - **2020.12.02** 네이버 인턴 되고싶어하는중 !
 
@@ -171,7 +173,7 @@ _아이 부끄러._
 
 ### 🎫 AWSomeday 101 과정을 수료했어요.
 
-[Cert](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/awsome%20day101%20certification.png)
+[Certification](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/awsome%20day101%20certification.png)
 
 - > ##### 중요한 것은 제가 DevOps나 Infra에 흥미를 처음으로 가졌다는 것이에요! 진심으로 설레요!
   - AWS라는게 뭔지도 몰랐을 때 뭔가 흥미로워 보여서 참가했다가 신선한 충격을 받았어요.
@@ -181,7 +183,7 @@ _아이 부끄러._
 
 ### 🏦 KISA FinTech 프로젝트 과정을 수료했어요
 
-[Cert](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/KISA%20FIntech%20과정%20수료증.png)
+[Certification](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/201030_핀테크%20프로젝트%20개발%20과정_장원익_수료증.pdf)
 
 - > ##### 핵심 키워드는 협업을 다시 한 번 생각했다는 거에요 !
   - KISA에서 진행하는 핀테크 교육 과정에 참여해서 **오픈뱅킹 API를 이용하는 방법**에 대해서 배웠습니다.
@@ -192,7 +194,7 @@ _아이 부끄러._
 
 ### 🕋 OSS 개발자 여름 캠프에 참여했어요
 
-[Cert](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/OSS.jpg)
+[Certification](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/OSS.jpg)
 
 - > ##### 핵심 키워드는 학습에 임하는 태도에요.
   - 국민대학교와 OSS 개발자 포럼이 주관하는 OSS 개발자 여름 캠프에 참여해서 용영환 개발자님에게 Cerberus X 라는 언어를 배웠어요!
