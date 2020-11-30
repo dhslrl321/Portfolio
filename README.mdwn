@@ -171,15 +171,15 @@ _아이 부끄러._
 
 ![price](https://github.com/dhslrl321/Portfolio/blob/master/Images/price.png)
 
-##### 창업 발굴 캠프
+##### [창업 발굴 캠프](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/발굴%20창업%20캠프.png)
 
-##### 아이디어 부트 캠프
+##### [아이디어 부트 캠프](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/아이디어%20부트캠프%20장원익.png)
 
-##### 창의 경진 대회
+##### [창의 경진 대회](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/창의경진대회.jpg)
 
-##### 캡스톤 디자인 대회
+##### [캡스톤 디자인 대회](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/캡스톤%20디자인%20경시대회.pdf)
 
-##### SW 해커톤
+##### [SW 해커톤](https://github.com/dhslrl321/Portfolio/blob/master/Images/cert/hackthon.png)
 
 ## 👩🏻‍💻 교육
 
