@@ -11,7 +11,7 @@
 
 1. ### [소개](#-소개)
 
-- - [나는 누구인가?](#-나는-누구인가?)
+- - [나는 누구인가?](#-나는-누구인가)
 - - [팀 장원익 소개](#-Team-Jang-won-ik-소개)
 
 2. ### [타임라인](#-타임라인)
@@ -32,18 +32,18 @@
 
 ---
 
-# 소개
+# 🙋 소개
 
-## 🧑‍💼 나는 누구인가?
+## 🧑‍💼 나는 누구인가
 
 ![name-card](https://github.com/dhslrl321/Portfolio/blob/master/Images/name.png)
 
 ## 👨‍👩‍👧‍👦 Team Jang won ik 소개
 
-|              👨‍👨‍👧               |                  기획                  |               Front-End                |                              Back-End                               |                                                                     디자인                                                                     |
+|              👨‍👨‍👧               |                  기획                  |               Front-End                |                              Back-End                               |                                                                    Back-End                                                                    |
 | :---------------------------: | :------------------------------------: | :------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|         **이름은요?**         |              🧑‍💼 장원익              |              🧑‍💻 장원익              |                              🥷 장원익                               |                                                                  🧑‍🎨 장원익                                                                  |
-| **어딜 가면 만날 수 있나요?** | [기술 Blog](https://wonit.tistory.com) | [Github](https://github.com/dhslrl321) | [Youtube](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A) | [Github](https://github.com/dhslrl321), [Blog](https://wonit.tistory.com), [Youtube](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A) |
+|         **이름은요?**         |              🧑‍💼 장원익              |              🧑‍💻 장원익              |                              🥷 장원익                               |                                                                  🧑‍🎨 장원익                                                                  | 🧑‍🎨 장원익 |
+| **어딜 가면 만날 수 있나요?** | [기술 Blog](https://wonit.tistory.com) | [Github](https://github.com/dhslrl321) | [Youtube](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A) | [Github](https://github.com/dhslrl321), [Blog](https://wonit.tistory.com), [Youtube](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A) | [Youtube](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A) |
 
 이런 자아들이 모여서 하나의 **유기체인** 장원익을 구동시킵니다.
 
