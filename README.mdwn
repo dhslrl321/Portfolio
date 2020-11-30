@@ -13,7 +13,9 @@
 
 2. ### 타임라인
 
-- - 활동
+- - 나의 작품들
+- - 팀 활동
+- - 나의 하루
 
 3. ### 장기 자랑
 
@@ -45,26 +47,55 @@
 # 타임라인
 
 ![timeline](https://github.com/dhslrl321/Portfolio/blob/master/Images/timeline.png)
-asdf
 
-## 활동
+### 활동
 
 Team EU 리더
 Team Maple 팀원
 LOCS 팀장
 
-## 타임라인
+### 나의 작품들
 
-#### 데스크톱 관리 프로그램
+#### 1. 데스크톱 관리 프로그램
 
-#### 게임 개발
+데스크톱 관리 프로그램 제작
 
-#### FINX
+#### 2. 게임 개발
 
-# asdf
+데스크톱 관리 프로그램 제작
+
+#### 3. FINX
+
+데스크톱 관리 프로그램 제작
+
+### 나의 하루
 
 ![activity](https://github.com/dhslrl321/Portfolio/blob/master/Images/activity.png)
-asdf
 
-- - Who am I
-- - Let me introduce my self
+#### 1. 블로깅
+
+블로깅으로 정보를 저장합니다.
+
+#### 2. 유튜브
+
+유튜브로 하루 공부를 기록합니다.
+
+#### 3. 백준
+
+백준으로 알고리즘을 연습합니다.
+
+# 장기 자랑
+
+### 수상
+
+### 교육
+
+# 그 밖의 것들
+
+### 취미
+
+#### 축구
+
+#### 스쿠버 다이빙
+
+#### 농구
