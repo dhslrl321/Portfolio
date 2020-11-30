@@ -168,6 +168,8 @@ _아이 부끄러._
 
 ## 👩🏻‍💻 교육
 
+![photo](https://github.com/dhslrl321/Portfolio/blob/master/Images/photo.png)
+
 ### 🎫 AWSomeday 101 과정을 수료했어요.
 
 ##### 중요한 것은 제가 DevOps나 Infra에 흥미를 처음으로 가졌다는 것이에요! 진심으로 설레요!
