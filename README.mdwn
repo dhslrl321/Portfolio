@@ -83,6 +83,7 @@
 - 처음으로 진행했던 협업 프로젝트라 저에게 아주 기억에 오래 남아있어요!
 - 소스코드도 상당 부분 날아가고 기록되어 있는게 없지만 제게 있어 개발의 첫 신호탄이 된 프로젝트라 제겐 소중해요!
   - Java8과 Mysql, JavaFX를 이용해서 처음으로 MVC 패턴에 대해서 알게 되었어요.
+  - SQL 연결 객체로`Connection`를 이용하고 결과와 쿼리문을 `PreparedStatement`, `ResultSet` 로 관리해요.
   - Git을 처음으로 사용해봤어요. 너무 미숙했어요 :(
 
 ### 2. 웹 디펜스 게임
@@ -112,7 +113,7 @@
 ### 5. Bless Music Studio 공식 홈페이지
 
 - [github](https://github.com/dhslrl321/Bless-Music-Studio)
-- [Test 배포](https://github.com/dhslrl321/Bless-Music-Studio)
+- [Test 배포](http://3.35.13.240:8300)
   - 간단한 정적 서비스이지만 최대한 도전적인 기술을 많이 사용해보고싶은 과제에요.
   - Blue-Green 배포를 활용해서 무중단 배포가 탑재**될** 도전적인 홈페이지 !
   - > 리액트와 Styled-Components로 구성되어 있는 정적인 웹 서비스에요.
@@ -146,7 +147,7 @@
 저는 공부할 때 누군가의 **공부 소리**(Youtube의 Study With me 컨텐츠)와 함께 하는 것을 즐겨요.  
 공부를 하는 컨텐츠는 많지만 **개발을 하는 컨텐츠는 너무 부족하더라구요**.  
 그래서 제가 하기로 결정했어요 !  
-앞으로는 제가 생각하는 개발 철학과 마음가짐에 대해서도 이야기 해볼까 해요.
+앞으로는 제가 생각하는 **개발 철학**과 마음가짐 그리고 **개인 개발 작업물**에 대해서도 이야기 해볼까 해요.
 
 ### 4. 생활 패턴 🛌
 
@@ -250,3 +251,5 @@ _아이 부끄러._
 ---
 
 ![photo](https://github.com/dhslrl321/Portfolio/blob/master/Images/photo.png)
+
+EC2 centOS에서 yum install nginx로 다운 받는 거랑
