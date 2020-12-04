@@ -52,10 +52,10 @@
 
 ## 👨‍👩‍👧‍👦 Team Jang won ik 소개
 
-|            👨‍👨‍👧             |               기획, 디자인, Managing               |                           Front End                            |                               Back End                               |             Infrastructure              |
-| :-----------------------: | :------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------------: | :-------------------------------------: |
-|       **이름은요?**       |                    🧑‍💼 장원익                    |                          🧑‍💻 장원익                          |                               🥷 장원익                               |              🧑‍🎨 장원익               |
-| **어떤 능력을 가졌나요?** | Agile, Adobe XD, Kanban, 자세 교정사(척추 및 경추) | React, Redux, Styled-components, Android Studio, JS, HTML, CSS | Python, Java, Spring, Springboot, Spring Cloud, Spring Security, RDB | AWS(EC2, RDS, S3), Docker, Nginx, Linux |
+|            👨‍👨‍👧             |               기획, 디자인, Managing               |              Front End               |       Back End        |             Infrastructure              |
+| :-----------------------: | :------------------------------------------------: | :----------------------------------: | :-------------------: | :-------------------------------------: |
+|       **이름은요?**       |                    🧑‍💼 장원익                    |             🧑‍💻 장원익             |       🥷 장원익        |              🧑‍🎨 장원익               |
+| **어떤 능력을 가졌나요?** | Agile, Adobe XD, Kanban, 자세 교정사(척추 및 경추) | React, Android Studio, JS, HTML, CSS | Java, Springboot, RDB | AWS(EC2, RDS, S3), Docker, Nginx, Linux |
 
 이런 자아들이 모여서 하나의 **유기체인** 장원익을 구동시킵니다 !
 
@@ -83,7 +83,8 @@
 - 처음으로 진행했던 협업 프로젝트라 저에게 아주 기억에 오래 남아있어요!
 - 소스코드도 상당 부분 날아가고 기록되어 있는게 없지만 제게 있어 개발의 첫 신호탄이 된 프로젝트라 제겐 소중해요!
   - Java8과 Mysql, JavaFX를 이용해서 처음으로 MVC 패턴에 대해서 알게 되었어요.
-  - SQL 연결 객체로`Connection`를 이용하고 결과와 쿼리문을 `PreparedStatement`, `ResultSet` 로 관리해요.
+  - SQL 연결 객체로`Connection`를 이용하고 결과와 쿼리문을 `PreparedStatement`, `ResultSet` 로 관리해요. <- 너무 부족
+  - **전체적인 시스템 구조**
   - Git을 처음으로 사용해봤어요. 너무 미숙했어요 :(
 
 ### 2. 웹 디펜스 게임
@@ -99,7 +100,7 @@
 
 - [dbpia 논문 학술 검색](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09286801)
   - 대학원생의 **논문**에 도움을 주었어요.
-  - Client 부분의 **Desktop**를 JavaFX로 **개발했고** 가끔 **Android 파트**도 맡았어요.
+  - Client 부분의 **Desktop**를 JavaFX로 **개발했고**, **Android 파트**도 지원했어요.
   - > Open CV와 **Bouncy Castle**을 이용해서 **사진 제어와 파일 암호화**를 구현했어요.
 
 ### 4. MSA를 적용한 지출 분석 서비스
