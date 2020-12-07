@@ -70,7 +70,10 @@
   - **배재대학교 공식 창업 팀**의 대표로 4명의 팀원들과 함께 열정으로 움직여요.
   - 2019.05 ~ 2020.02
 - ### Team Maple 팀원
-  - **모의 해킹 대회(CTF) 팀**의 개발자로 웹과 관련된 문제를 풀어요.
+  - **해킹 방어 대회(CTF) 팀**의 개발자로 웹과 관련된 문제를 풀어요.
+  - CCE 2019, CCE 2020 : **6문제 solve**
+  - FIESTA 2020 : **4문제 solve**
+  - Dreamhack CTF : **1문제 solve**
   - 2019.09 ~ 현재
 
 ## 🎥 나의 작품들
@@ -82,6 +85,7 @@
   - Java8과 Mysql, JavaFX를 이용해서 처음으로 MVC 패턴에 대해서 알게 되었어요.
   - 저의 최초의 CRUD Application이에요.
   - Git을 처음으로 사용해봤어요. 너무 미숙했어요 :(
+  - 하지만 이 때의 미숙함이 있었기 때문에 Git을 좋아하는것 같아요!
 
 ### 2. 웹 디펜스 게임
 
@@ -118,7 +122,7 @@
   - 간단한 정적 서비스이지만 최대한 도전적인 기술을 많이 사용해보고싶은 과제에요.
   - Blue-Green 배포를 활용해서 무중단 배포가 탑재된 도전적인 홈페이지 !
   - > 리액트와 `Styled-Components`로 구성되어 있는 정적인 웹 서비스에요.
-  - > `Travis CI`와 AWS의 `CodeDeploy`로 CI CD Pipeline\*\*을 구축했어요!
+  - > `Travis CI`와 AWS의 `CodeDeploy`로 **CI CD Pipeline**을 구축했어요!
   - > 이와 관련해서는 [주니어 개발자가 Travis와 AWS CodeDeploy로 CI CD 사이에서 살아남기](https://velog.io/@programador/주니어-개발자가-Travis와-AWS-CodeDeploy로-CI-CD-사이에서-살아남기) 에서 확인할 수 있어요
 
 ## 🌍 나의 하루
