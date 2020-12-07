@@ -1,6 +1,6 @@
 # 😀 반갑습니다! 😃
 
-> 처음 뵙겠습니다. 저는 장원익이라고 하구요,
+> 처음 뵙겠습니다. 저는 장원익이라고 하구요,  
 > 저의 지난 2년간의 경험과 열정을 사랑하는 README.md에 녹여보았습니다.  
 > 제 영향력은 에너지입니다 :)
 
@@ -53,6 +53,8 @@
 | **어떤 능력을 가졌나요?** | Agile, Adobe XD, Kanban, 자세 교정사(척추 및 경추) | React, Android Studio, JS, HTML5, CSS3 | Java, Springboot, RDB | AWS(EC2, RDS, S3, CodeDeploy), Docker, Nginx, Linux, Travis |
 
 이런 자아들이 모여서 하나의 **유기체인** 장원익을 구동시킵니다 !
+
+위의 능력에 나온 기술과 도구로 프로젝트를 진행해보았고, 저를 대표할 수 있는 언어와 기술을 이야기하자면 **React와 Springboot**에요!
 
 # 🔖 타임라인
 
