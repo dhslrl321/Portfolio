@@ -1,12 +1,8 @@
-🏀⚽️
-
 # 😀 반갑습니다! 😃
 
-> 처음 뵙겠습니다 담당자님!  
-> 2020 네이버 지도 개발 체험형 인턴에 지원하는 장원익 이라고 합니다.  
-> 제 지난 2년간의 경험과 열정을 사랑하는 README.md에 녹여보았습니다.  
-> 제 영향력은 에너지입니다.  
-> 제가 부디 Naver 에서 선한 영향력을 행사할 수 있게 도와주세요 :)
+> 처음 뵙겠습니다. 저는 장원익이라고 하구요,
+> 저의 지난 2년간의 경험과 열정을 사랑하는 README.md에 녹여보았습니다.  
+> 제 영향력은 에너지입니다 :)
 
 # 📝 목차
 
@@ -48,7 +44,6 @@
 - 2019.01.19 대한민국 해병대 제 6 상륙 여단 병장 만기 전역
 - **2019.03.?** 처음으로 개발에 흥미를 느낀 인생에서 **가장가장 중요한 순간**
 - **2019.09.02** 개발자의 뜻을 품고 컴퓨터공학 복수 전공
-- **2020.12.02** 네이버 인턴 되고싶어하는중 !
 
 ## 👨‍👩‍👧‍👦 Team Jang won ik 소개
 
@@ -83,13 +78,12 @@
 - 처음으로 진행했던 협업 프로젝트라 저에게 아주 기억에 오래 남아있어요!
 - 소스코드도 상당 부분 날아가고 기록되어 있는게 없지만 제게 있어 개발의 첫 신호탄이 된 프로젝트라 제겐 소중해요!
   - Java8과 Mysql, JavaFX를 이용해서 처음으로 MVC 패턴에 대해서 알게 되었어요.
-  - SQL 연결 객체로`Connection`를 이용하고 결과와 쿼리문을 `PreparedStatement`, `ResultSet` 로 관리해요. <- 너무 부족
-  - **전체적인 시스템 구조**
+  - 저의 최초의 CRUD Application이에요.
   - Git을 처음으로 사용해봤어요. 너무 미숙했어요 :(
 
 ### 2. 웹 디펜스 게임
 
-- [github](https://github.com/dhslrl321/Egg-Shooting)
+- [github 바로 가기](https://github.com/dhslrl321/Egg-Shooting)
 - [게임 하러가기](http://52.79.187.179:8311/)
   - **Cerberus-X** 라는 언어로 만들었습니다.
   - Reference가 전무해서 오로지 **공식 문서로만 의존**했던 추억이에요.
@@ -99,25 +93,31 @@
 ### 3. 원격 데스크톱 관리 솔루션
 
 - [dbpia 논문 학술 검색](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09286801)
-  - 대학원생의 **논문**에 도움을 주었어요.
+  - 대학원생의 **논문**에 개발자로 참여했어요.
   - Client 부분의 **Desktop**를 JavaFX로 **개발했고**, **Android 파트**도 지원했어요.
   - > Open CV와 **Bouncy Castle**을 이용해서 **사진 제어와 파일 암호화**를 구현했어요.
 
 ### 4. MSA를 적용한 지출 분석 서비스
 
-- [github](https://github.com/dhslrl321/Finx-App)
+- [github 바로 가기](https://github.com/dhslrl321/Finx-App)
+  - 과학기술정보통신부에서 주관하는 SW해커톤에서 해당 프로젝트로 수상을 했어요!
   - **마이크로 서비스 아키텍처**를 적용한 **지출 분석 서비스**에요.
+  - 통장 거래 내역으로 이번달 고정 지출과 예상 지출을 알려준다는 주제에요!
   - 짝 프로그래밍으로 팀원과 **진득한 협업**을 했던 프로젝트에요.
   - > **Spring Cloud**의 Netflix-Zuul, Netflix-Eureka가 **MSA를 위해 사용**되었습니다.
   - > **OAuth2.0**를 이용해서 토큰을 기반으로 동작합니다.
+  - > Springboot 내부에서 자체적인 토큰을 만들고 검증하는 로직을 만들었어요.
 
 ### 5. Bless Music Studio 공식 홈페이지
 
-- [github](https://github.com/dhslrl321/Bless-Music-Studio)
-- [Test 배포](http://3.35.13.240:8300)
+- [github 바로 가기](https://github.com/dhslrl321/Bless-Music-Studio)
+- [배포 링크](http://3.35.13.240:8300)
+  - 피아노 연습실을 개원한 사촌 누나를 위한 선물이에요
   - 간단한 정적 서비스이지만 최대한 도전적인 기술을 많이 사용해보고싶은 과제에요.
-  - Blue-Green 배포를 활용해서 무중단 배포가 탑재**될** 도전적인 홈페이지 !
-  - > 리액트와 Styled-Components로 구성되어 있는 정적인 웹 서비스에요.
+  - Blue-Green 배포를 활용해서 무중단 배포가 탑재된 도전적인 홈페이지 !
+  - > 리액트와 `Styled-Components`로 구성되어 있는 정적인 웹 서비스에요.
+  - > `Travis CI`와 AWS의 `CodeDeploy`로 CI CD Pipeline\*\*을 구축했어요!
+  - > 이와 관련해서는 [주니어 개발자가 Travis와 AWS CodeDeploy로 CI CD 사이에서 살아남기](https://velog.io/@programador/주니어-개발자가-Travis와-AWS-CodeDeploy로-CI-CD-사이에서-살아남기) 에서 확인할 수 있어요
 
 ## 🌍 나의 하루
 
@@ -127,7 +127,9 @@
 
 ### 1. 자체 세미나 🌸
 
-> ##### 남에게 공유하는건 늘 즐거워요
+> ##### 남에게 공유하는건 늘 즐거워요.
+>
+> ##### 내가 알고 있는 내용을 공유할 때, 비로소 저의 것이 돼요.
 
 연구실에서 분기마다 자신이 공부했던 내용에 대해서 주제를 잡고 발표를 진행해요.  
 내가 **공부하는 것** 만큼이나 남에게 **공유하는 것이 중요**하다고 생각해요.  
@@ -247,10 +249,9 @@ _아이 부끄러._
 - Kakao talk ID : dhslrl321
 - Gmail : dhslrl321@gmail.com
 - [Tistory Blog](https://wonit.tistory.com) : Programador
+- [Velog](https://velog.io/@programador) : Programador
 - [Youtube](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A?view_as=subscriber) : 아이엠코딩
 
 ---
 
 ![photo](https://github.com/dhslrl321/Portfolio/blob/master/Images/photo.png)
-
-EC2 centOS에서 yum install nginx로 다운 받는 거랑
