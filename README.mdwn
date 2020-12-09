@@ -111,9 +111,9 @@
   - 통장 거래 내역으로 이번달 고정 지출과 예상 지출을 알려준다는 주제에요!
   - 짝 프로그래밍으로 팀원과 **진득한 협업**을 했던 프로젝트에요.
   - > API 서버들의 엔드포인트를 단일화 하기 위해 `API Gateway`로, **Spring Cloud**의 `Netflix-Zuul` 가 사용되었습니다.
-  - > 마이크로서비스 환경에서 서비스 위치를 알아내기 위해 각각의 서버의 `Service Discovery` Pattern이 적용되었고, **Spring Cloud**의 `Netflix-Eureka` 가 사용되었습니다.
+  - > 마이크로서비스 환경에서 Resource Location을 알아내기 위해 각각의 서버의 `Service Discovery` Pattern이 적용되었고, **Spring Cloud**의 `Netflix-Eureka` 가 사용되었습니다.
   - > **OAuth2.0**를 이용해서 토큰을 기반으로 동작합니다.
-  - > Springboot 내부에서 자체적인 토큰을 만들고 검증하는 로직을 만들었어요.
+  - > Springboot 내부에서 자체적인 토큰을 만들고 검증하는 로직을 만들었고 API Gateway에서 Auth Server로 인증을 위해 데이터를 보냅니다.
 
 ### 5. Bless Music Studio 공식 홈페이지
 
