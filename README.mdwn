@@ -120,9 +120,9 @@
 - [배포 링크](http://52.78.227.135/)
   - 피아노 연습실을 개원한 사촌 누나를 위한 선물이에요
   - 간단한 정적 서비스이지만 최대한 도전적인 기술을 많이 사용해보고싶은 과제에요.
-  - Blue-Green 배포를 활용해서 무중단 배포가 탑재된 도전적인 홈페이지 !
   - > 리액트와 `Styled-Components`로 구성되어 있는 정적인 웹 서비스에요.
   - > `Travis CI`와 AWS의 `CodeDeploy`로 **CI CD Pipeline**을 구축했어요!
+  - > 사이트 내의 **잦은 이벤트 포스팅을** 위해 `Blue-Green` 배포를 활용해서 무중단 배포가 탑재된 도전적인 홈페이지 !
   - > 이와 관련해서는 [주니어 개발자가 Travis와 AWS CodeDeploy로 CI CD 사이에서 살아남기](https://velog.io/@programador/주니어-개발자가-Travis와-AWS-CodeDeploy로-CI-CD-사이에서-살아남기) 에서 확인할 수 있어요
 
 ## 🌍 나의 하루
