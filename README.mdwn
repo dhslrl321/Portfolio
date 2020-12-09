@@ -113,7 +113,7 @@
   - > API 서버들의 엔드포인트를 단일화 하기 위해 `API Gateway`로, **Spring Cloud**의 `Netflix-Zuul` 가 사용되었습니다.
   - > 마이크로서비스 환경에서 Resource Location을 알아내기 위해 각각의 서버의 `Service Discovery` Pattern이 적용되었고, **Spring Cloud**의 `Netflix-Eureka` 가 사용되었습니다.
   - > **OAuth2.0**를 이용해서 토큰을 기반으로 동작합니다.
-  - > Springboot 내부에서 자체적인 토큰을 만들고 검증하는 로직을 만들었고 API Gateway에서 Auth Server로 인증을 위해 데이터를 보냅니다.
+  - > `API Gateway`에서 인증을 수행합니다.
 
 ### 5. Bless Music Studio 공식 홈페이지
 
