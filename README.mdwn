@@ -80,6 +80,12 @@
 
 ### 1. 도서 대여 프로그램
 
+##### 진행 기간 : 2019.07 ~ 2019.08
+
+##### 사용 기술 : Java8, Mysql, JDBC, GIT
+
+##### 결과 / 성과 : 연구실 세미나 발표
+
 - 처음으로 진행했던 협업 프로젝트라 저에게 아주 기억에 오래 남아있어요!
 - 소스코드도 상당 부분 날아가고 기록되어 있는게 없지만 제게 있어 개발의 첫 신호탄이 된 프로젝트라 제겐 소중해요!
   - Java8과 Mysql, JavaFX를 이용해서 처음으로 MVC 패턴에 대해서 알게 되었어요.
@@ -88,6 +94,12 @@
   - 하지만 이 때의 미숙함이 있었기 때문에 Git을 좋아하는것 같아요!
 
 ### 2. 웹 디펜스 게임
+
+##### 진행 기간 : 2019.08 ~ 2019.08
+
+##### 사용 기술 : Cerberus, Nginx, EC2, HTML, CSS, JS
+
+##### 결과 / 성과 : 결과 발표회 에서 수상
 
 - [github 바로 가기](https://github.com/dhslrl321/Egg-Shooting)
 - [게임 하러가기](http://52.79.187.179:8311/)
@@ -100,6 +112,12 @@
 
 ### 3. 원격 데스크톱 관리 솔루션
 
+##### 진행 기간 : 2019.10 ~ 2020.01
+
+##### 사용 기술 : Java8, Mysql, JDBC, GIT
+
+##### 결과 / 성과 : 한국 콘텐츠 학회 논문 등재
+
 - [dbpia 논문 학술 검색](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09286801)
   - 대학원생의 **논문**에 개발자로 참여했어요.
   - 개인 PC 혹은 노트북을 **대리인에게 맡겼을 때**, 비정상적인 행위를 감시하고 PC를 보호하는 솔루션입니다.
@@ -109,6 +127,12 @@
   - > 관리자는 인가된 대리인인지 확인하기 위해 원격으로 Cam 화면을 확인하고자 하면, `Open CV`를 이용하여 Cam 사진이 찍힙니다.
 
 ### 4. MSA를 적용한 지출 분석 서비스
+
+##### 진행 기간 : 2020.11 ~ 2020.11
+
+##### 사용 기술 : AWS EC2, ReactJs, Axios, Java8, Springboot 2.4.1, Spring Data JPA, Spring Cloud, Spring Security
+
+##### 결과 / 성과 : SW 해커톤 장려상
 
 - [github 바로 가기](https://github.com/dhslrl321/Finx-App)
   - 과학기술정보통신부에서 주관하는 SW해커톤에서 해당 프로젝트로 수상을 했어요!
@@ -121,6 +145,12 @@
   - > `API Gateway`에서 인증을 수행합니다.
 
 ### 5. Bless Music Studio 공식 홈페이지
+
+##### 진행 기간 : 2020.11 ~ 진행중
+
+##### 사용 기술 : AWS EC2, CodeDeploy, S3, Travis CI, ReactJS, NGINX
+
+##### 결과 / 성과 : 서비스 출시 예정
 
 - [github 바로 가기](https://github.com/dhslrl321/Bless-Music-Studio)
 - [배포 링크](http://52.78.227.135/)
