@@ -68,9 +68,10 @@
   - 2019.01 ~ 현재 : (팀장)
 - ### Team EU 대표
   - **배재대학교 공식 창업 팀**의 대표로 4명의 팀원들과 함께 열정으로 움직여요.
+  - 다양한 창업 경진 대회에서 수상 경험이 있어요. **(5회)**
   - 2019.05 ~ 2020.02
 - ### Team Maple 팀원
-  - **해킹 방어 대회(CTF) 팀**의 개발자로 웹과 관련된 문제를 풀어요.
+  - **해킹 방어 대회(CTF) 팀**의 개발자로 `웹 해킹`과 관련된 문제를 풀어요.
   - CCE 2019, CCE 2020 : **6문제 solve**
   - FIESTA 2020 : **4문제 solve**
   - Dreamhack CTF : **1문제 solve**
@@ -136,7 +137,7 @@
 
 ##### 진행 기간 : 2020.11 ~ 2020.11
 
-##### 사용 기술 : AWS EC2, ReactJs, Axios, Java8, Springboot 2.4.1, Spring Data JPA, Spring Cloud, Spring Security
+##### 사용 기술 : Microservice Architecture, AWS EC2, ReactJs, Axios, Java8, Springboot 2.4.1, Spring Data JPA, Spring Cloud, Spring Security
 
 ##### 팀 내 역할 : 프로젝트 매니징, Front-end, Back-end
 
